@@ -1,4 +1,4 @@
-Español:
+Español: 
 ========
 Este proyecto requiere la apertura de puertos en un router, si no sabes que es eso, probablemente no deberías probar el proyecto; solicita ayuda a un profesional.
 Este proyecto te permite correr un webserver en un ESP32 el cual después de ingresar una clave te permite encender tu PC con la ayuda de un circuito simple.
