@@ -37,5 +37,7 @@ On your router, you need to open TCP port 80 to the static IP address assigned t
 If your public IP address changes over time, see if you can add a DDNS (I recommend No-IP; at least until November 2025, they offer a free domain).
 
 
+
+
 NO soy responsable por ningún daño causado por intentar el proyecto, revisa todo con tester (multímetro).
 I am NOT responsible for any damage caused by attempting the project, please check everything with a tester (multimeter).
